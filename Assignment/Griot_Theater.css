@@ -2,7 +2,7 @@ body {
     margin: 0px;
     margin-top: 0%;
     padding: 0%;
-    border: 1px solid black;
+    /* border: 1px solid red; */
     /* background-color: black;    */
 }
 
@@ -46,7 +46,7 @@ body {
     color: white;
     text-align: right;
     padding: 0px 29px;
-    text-decoration: none;
+    /* text-decoration: none; */
     list-style-type: none;
     float: right;
     margin: 0%;
@@ -79,6 +79,7 @@ main {
     display: flex;
     flex-direction: column;
     flex: wrap;
+    /* border: 2px solid red; */
     /* margin-top: -0%; */
 }
 
@@ -126,7 +127,7 @@ main {
     padding: em;
     margin-top: 10%;
     border-radius: 3px;
-    width: 750px;
+    width: 760px;
     margin-bottom: 4%;
     height: px;
     font-size: large;
@@ -154,3 +155,26 @@ main {
     color: lightblue;
     border-color: lightblue;
 }
+
+hr {
+    height: 4px;
+    color: black;
+}
+
+footer {
+    background-color: black;
+    height: 400px;
+    color: white;
+    /* border: 1px solid red; */
+}
+
+
+
+
+#Ftli1 {
+    font-size: xx-large;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
